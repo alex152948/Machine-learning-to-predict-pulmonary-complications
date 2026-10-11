@@ -1,0 +1,7 @@
+data是所使用的全部数据及运行所产生的数据
+
+explain中是融合模型 figures和result_explain是运行后产生的图与表格
+
+model 中是选取模型所运行的代码
+
+vote_model是基于上面选取的三个模型后组合 
